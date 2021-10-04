@@ -1,0 +1,13 @@
+//
+//  NPostCell_iPad.h
+//  AlienBlue
+//
+//  Created by J M on 16/02/12.
+//  Copyright (c) 2012 The Design Shed. All rights reserved.
+//
+
+#import "NPostCell.h"
+
+@interface NPostCell_iPad : NPostCell
+
+@end

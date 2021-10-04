@@ -1,0 +1,3 @@
+@interface ABHoverVolumeControlView : UIView
+
+@end
